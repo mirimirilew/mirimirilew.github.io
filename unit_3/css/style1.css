@@ -6,8 +6,8 @@ body {
   color:white;
 }
 #slogan{
-	font-weight: bold;
-	color: white;
+	font-weight:bold;
+	color:white;
 	font-size:22pt;
 	font-style: italic;
 }
@@ -15,9 +15,9 @@ body {
 	width: 200px
 }
 #jackson{
-	font-weight: bold;
+	font-weight:bold;
 	color:#ccff66;
-	font-size: 28pt;
+	font-size:28pt;
 }
 
 hr {
@@ -26,5 +26,5 @@ hr {
 }
 
 h1, p {
-    color: green;
+    color:green;
 }
