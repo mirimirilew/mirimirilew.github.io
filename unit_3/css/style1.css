@@ -10,10 +10,12 @@ body {
 	color: white
 	font-size:24pt;
 	font-style: italic;
+}
 
-	{hr
+hr {
 	width:400px;
 }
+
 h1, p {
     color: green;
 }
