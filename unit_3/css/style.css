@@ -1,0 +1,10 @@
+body {
+	background-color: purple;
+}
+#slogan{
+	font-weight: bold;
+	color: green
+}
+h1, p {
+    color: red;
+}
