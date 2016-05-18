@@ -1,7 +1,7 @@
 body {
   	text-align: center;
   background-size:cover;
-  background:url(images/antis.jpg);
+  background:images/antis.jpg;
   font-family: Helvetica;
   color:white;
 }
