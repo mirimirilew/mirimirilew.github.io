@@ -1,7 +1,7 @@
 body {
   	text-align: center;
   background-size:cover;
-  background:url(images/antis.jpg);
+  background:url("http://ichef.bbci.co.uk/news/660/cpsprodpb/13D93/production/_87699218_gettyimages-56714643.jpg");
   font-family: Helvetica;
   color:white;
 }
@@ -11,7 +11,7 @@ body {
 	font-size:22pt;
 	font-style: italic;
 }
-#croc{
+#antis{
 	width: 200px
 }
 #jackson{
