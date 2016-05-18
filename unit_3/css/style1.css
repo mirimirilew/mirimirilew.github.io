@@ -3,11 +3,11 @@ body {
   background-size:cover;
   background:url("http://ichef.bbci.co.uk/news/660/cpsprodpb/13D93/production/_87699218_gettyimages-56714643.jpg");
   font-family: Helvetica;
+  color:white;
 }
 #slogan{
 	font-weight: bold;
-	color: green
-	text-align: center;
+	color: white
 h1, p {
     color: orange;
 }
