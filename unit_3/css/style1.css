@@ -11,6 +11,9 @@ body {
 	font-size:24pt;
 	font-style: italic;
 }
+#antis{
+	column-width: 100%
+}
 
 hr {
 	width:400px;
