@@ -8,6 +8,12 @@ body {
 #slogan{
 	font-weight: bold;
 	color: white
+	font-size:24pt;
+	font-style: italic;
+
+	{hr
+	width:400px;
+}
 h1, p {
-    color: orange;
+    color: green;
 }
