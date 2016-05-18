@@ -8,15 +8,21 @@ body {
 #slogan{
 	font-weight: bold;
 	color: white;
-	font-size:24pt;
+	font-size:22pt;
 	font-style: italic;
 }
 #antis{
 	width: 200px
 }
+#jackson{
+	font-weight: bold;
+	color:#ccff66;
+	font-size: 28pt;
+}
 
 hr {
 	width:400px;
+	height:3px;
 }
 
 h1, p {
