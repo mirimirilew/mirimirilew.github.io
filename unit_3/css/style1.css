@@ -1,19 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Englebert);
 
-body {
-  	text-align: center;
-  background-size:cover;
-  background-image:url("images/antis.jpg");
-  font-family: Helvetica;
-  color:white;
-}
 #slogan{
 	font-family:font'Englebert', sans-serif;
 	font-weight:bold;
 	color:white;
 	font-size:22pt;
-	font-style: italic;
+	font-style: italic;}
+
+body {
+  	text-align: center;
+  background-size:cover;
+  background: red
+  background-image:url("images/antis.jpg");
+  font-family: Helvetica;
+  color:white;
 }
+
+
 #croc{
 	width: 200px
 }
