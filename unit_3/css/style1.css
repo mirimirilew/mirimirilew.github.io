@@ -20,7 +20,7 @@ body {
 	width: 200px
 }
 #jackson{
-	font-family: 'Orienta', Helvetica;
+	font-family: Helvetica;
 	font-weight:bold;
 	color:#ccff66;
 	font-size:28pt;
@@ -33,4 +33,5 @@ hr {
 
 h1, p {
     color:green;
+    font-family:font'Englebert', sans-serif;
 }
