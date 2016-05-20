@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Orienta);
+
 body {
   	text-align: center;
   background-size:cover;
@@ -6,6 +8,7 @@ body {
   color:white;
 }
 #slogan{
+	font-family:'Orienta', sans-serif, Helvetica;
 	font-weight:bold;
 	color:white;
 	font-size:22pt;
@@ -15,6 +18,7 @@ body {
 	width: 200px
 }
 #jackson{
+	font-family: 'Orienta', Helvetica;
 	font-weight:bold;
 	color:#ccff66;
 	font-size:28pt;
