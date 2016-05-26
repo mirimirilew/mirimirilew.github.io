@@ -36,10 +36,12 @@ nav {
 
 aside {
 	background-color: #FFC675;
+	text-align: left;
 }
 
 article { 
 background-color: #E89C6C;
+text-align: justify;
  }
 
 footer {
