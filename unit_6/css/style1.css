@@ -47,7 +47,7 @@ nav {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width:62%;
+	width:40%;
 }
 #middle { 
 background-color: #E87C6d;
@@ -55,7 +55,7 @@ text-align: justify;
 border:1px black solid;
 padding: 20px;
 float:right;
-width:30%;
+width:40%;
 }
 
 #left { 
@@ -64,7 +64,7 @@ text-align: justify;
 border:1px black solid;
 padding: 20px;
 float:right;
-width:30%;
+width:20%;
  }
 
  .clearfix:after{
