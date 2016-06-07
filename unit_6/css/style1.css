@@ -58,6 +58,15 @@ float:left;
 width:30%;
  }
 
+ .clearfix:after{
+ 	visibility: hidden;
+ 	display: block;
+ 	font-size: 0;
+ 	content: "";
+ 	clear:both;
+ 	height:0;
+ }
+
 footer {
 	background-color: #FFC675;
 	border: 1px black solid;
