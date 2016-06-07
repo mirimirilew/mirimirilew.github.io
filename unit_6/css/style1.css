@@ -45,6 +45,8 @@ nav {
 	text-align: left;
 	border: 1px black solid;
 	padding: 20px;
+	float: right;
+	width:62%;
 }
 
 #left { 
@@ -52,6 +54,8 @@ background-color: #E89C6C;
 text-align: justify;
 border:1px black solid;
 padding: 20px;
+float:left;
+width:30%;
  }
 
 footer {
