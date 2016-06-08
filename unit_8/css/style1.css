@@ -33,7 +33,8 @@ header {
 nav {
 	background-color: #E8C66A;
 	display: inline-block;
-	margin: 5%;
+	margin: 20%;
+	padding: 5%;
 	text-align:center;
 
 }
