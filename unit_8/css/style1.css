@@ -95,3 +95,8 @@ h1, p {
     color:green;
     font-family:font'Englebert', sans-serif;
 }
+@media screen only and (min-width: 600px) {
+body {
+font-size: 12px;
+float: none
+}
