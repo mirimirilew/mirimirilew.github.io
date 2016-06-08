@@ -31,10 +31,10 @@ header {
 }
 
 nav {
-	background-color: #E8C66A
+	background-color: #E8C66A;
 	float:right;
 	display: inline-block;
-	margin: 5%
+	margin: 5%;
 	text-align:center;
 
 }
