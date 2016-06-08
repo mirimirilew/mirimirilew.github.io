@@ -32,6 +32,7 @@ header {
 
 nav {
 	background-color: #E8C66A
+	float:right;
 
 }
 
@@ -96,7 +97,9 @@ h1, p {
     font-family:font'Englebert', sans-serif;
 }
 @media screen only and (min-width: 600px) {
-body {
+section {
 font-size: 12px;
 float: none
+display:block;
+text-align: center;
 }
