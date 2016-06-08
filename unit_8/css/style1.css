@@ -1,0 +1,97 @@
+@import url(https://fonts.googleapis.com/css?family=Englebert);
+
+#slogan{
+	font-family:font'Englebert', sans-serif;
+	font-weight:bold;
+	color:blue;
+	font-size:22pt;
+	font-style: italic;}
+
+body {
+  	text-align: center;
+  background-size:cover;
+  background: red
+  font-family: Helvetica;
+  color:red;
+}
+
+#croc{
+	width: 40%
+}
+#jackson{
+	font-family: Helvetica;
+	font-weight:bold;
+	color:#ccff66;
+	font-size:1em;
+}
+header {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 10%;
+}
+
+nav {
+	background-color: #E8C66A
+
+}
+
+#two_column{
+	background-color: #ffb7c7;
+	border: 1px black solid;
+	padding: 5%;
+}
+
+#right {
+	background-color: #FFC675;
+	text-align: left;
+	border: 1px black solid;
+	padding: 5%;
+	float: right;
+	width:20%;
+}
+#middle { 
+background-color: #E87C6d;
+text-align: justify;
+border:1px black solid;
+padding: 5%;
+float:right;
+width:20%;
+}
+
+#left { 
+background-color: #E89C6C;
+text-align: justify;
+border:1px black solid;
+padding: 25%;
+float:right;
+width:20%;
+ }
+
+ .clearfix:after{
+ 	visibility: hidden;
+ 	display: block;
+ 	font-size: 0;
+ 	content: "";
+ 	clear:both;
+ 	height:0;
+ }
+
+footer {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div/section {
+	background-color: #FFE2B8
+}
+
+hr {
+	width:20%;
+	height:3px;
+}
+
+h1, p {
+    color:green;
+    font-family:font'Englebert', sans-serif;
+}
