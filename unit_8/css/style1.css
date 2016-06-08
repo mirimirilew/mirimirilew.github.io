@@ -97,7 +97,7 @@ h1, p {
     font-family:font'Englebert', sans-serif;
 }
 @media screen only and (min-width: 600px) {
-section {
+body {
 font-size: 12px;
 float: none
 display:block;
